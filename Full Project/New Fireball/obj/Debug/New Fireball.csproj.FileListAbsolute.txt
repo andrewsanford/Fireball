@@ -1,0 +1,10 @@
+C:\Users\andyc\Source\Repos\New Fireball\New Fireball\bin\Debug\New Fireball.exe.config
+C:\Users\andyc\Source\Repos\New Fireball\New Fireball\bin\Debug\New Fireball.exe
+C:\Users\andyc\Source\Repos\New Fireball\New Fireball\bin\Debug\New Fireball.pdb
+C:\Users\andyc\Source\Repos\New Fireball\New Fireball\obj\Debug\New Fireball.csproj.AssemblyReference.cache
+C:\Users\andyc\Source\Repos\New Fireball\New Fireball\obj\Debug\New_Fireball.Form1.resources
+C:\Users\andyc\Source\Repos\New Fireball\New Fireball\obj\Debug\New_Fireball.Properties.Resources.resources
+C:\Users\andyc\Source\Repos\New Fireball\New Fireball\obj\Debug\New Fireball.csproj.GenerateResource.cache
+C:\Users\andyc\Source\Repos\New Fireball\New Fireball\obj\Debug\New Fireball.csproj.CoreCompileInputs.cache
+C:\Users\andyc\Source\Repos\New Fireball\New Fireball\obj\Debug\New Fireball.exe
+C:\Users\andyc\Source\Repos\New Fireball\New Fireball\obj\Debug\New Fireball.pdb
